@@ -1,3 +1,1 @@
-"# SAE-LSTM-implementation-on-DEAP-" 
-"# SAE-LSTM-implementation-on-DEAP-" 
-# SAE-LSTM-implementation-on-DEAP-
+Implemented emotion classification using EEG signal.Made use of the publicly available DEAP dataset. Applied machine learning algorithms like KNN and SVM and deap learning algorithm LSTM with the use of stack autoencoder and did a comparitive study.
